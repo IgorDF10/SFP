@@ -44,10 +44,10 @@ git clone https://github.com/IgorDF10/SFP.git
 cd SFP/backend
 ```
 
-2. Configure o banco de dados no `application.properties`
+2. Crie o arquivo `backend/src/main/resources/application-local.properties` com suas credenciais:
 ```properties
 spring.datasource.url=jdbc:postgresql://localhost:5432/financeiro_db
-spring.datasource.username=postgres
+spring.datasource.username=SEU_USERNAME
 spring.datasource.password=SUA_SENHA
 ```
 
@@ -92,7 +92,7 @@ Este projeto foi desenvolvido para consolidar conhecimentos em:
 
 ## 👨‍💻 Autor
 
-Igor Fernandes - [LinkedIn](seu-linkedin) - [GitHub](seu-github)
+Igor Fernandes - [LinkedIn](https://www.linkedin.com/in/igor-fernandes-43449237b/) - [GitHub](https://github.com/IgorDF10)
 
 ## 📄 Licença
 
