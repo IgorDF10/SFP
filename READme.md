@@ -79,7 +79,140 @@ O frontend estará rodando em: `http://localhost:5173`
 
 ## 📸 Screenshots
 
-[Adicione prints das telas aqui]
+> Interface moderna e responsiva desenvolvida com React e Tailwind CSS
+
+### 🔐 Autenticação
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Tela de Login</h4>
+      <img src="docs/images/login.png" alt="Login">
+    </td>
+    <td width="50%">
+      <h4>Tela de Registro</h4>
+      <img src="docs/images/register.png" alt="Registro">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4>Validação de Credenciais</h4>
+      <img src="docs/images/login_invalid.png" alt="Login Inválido">
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Dashboard
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>Dashboard - Estado Inicial</h4>
+      <img src="docs/images/dashboard_empty.png" alt="Dashboard Vazio">
+    </td>
+    <td width="50%">
+      <h4>Dashboard - Com Dados</h4>
+      <img src="docs/images/dashboard_with_transactions.png" alt="Dashboard com Dados">
+    </td>
+  </tr>
+</table>
+
+**Recursos do Dashboard:**
+- 📈 Cards com resumo financeiro (Receitas, Despesas, Saldo)
+- 📋 Listagem de transações recentes
+- 🎨 Design responsivo e moderno
+
+---
+
+### 🏷️ Categorias
+
+<table>
+    <tr>
+    <td colspan="2">
+      <h4>Listagem de Categorias</h4>
+      <img src="docs/images/categories.png" alt="Categorias">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h4>Criar Categoria - Despesa</h4>
+      <img src="docs/images/create_category2.png" alt="Criar Categoria Despesa">
+    </td>
+    <td width="33%">
+      <h4>Criar Categoria - Receita</h4>
+      <img src="docs/images/create_category.png" alt="Criar Categoria Receita">
+    </td>
+        <td width="33%">
+      <h4>Categorias - Edição</h4>
+      <img src="docs/images/categories_edit.png" alt="Editar Categorias">
+    </td>
+  </tr>
+</table>
+
+**Funcionalidades:**
+- ✏️ Criar, editar e deletar categorias
+- 🎨 Escolher cores e ícones personalizados
+- 📂 Separação por tipo (Receitas e Despesas)
+
+---
+
+### 💰 Transações
+
+<table>
+  <tr>
+    <td colspan="2">
+      <h4>Listagem de Transações</h4>
+      <img src="docs/images/transactions.png" alt="Transações">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h4>Criar Transação - Despesa</h4>
+      <img src="docs/images/create_transaction2.png" alt="Criar Transação Despesa">
+    </td>
+    <td width="33%">
+      <h4>Criar Transação - Receita</h4>
+      <img src="docs/images/create_transaction.png" alt="Criar Transação Receita">
+    </td>
+      <td width="33%">
+      <h4>Criar Transação - lista com categorias</h4>
+      <img src="docs/images/transaction_edit.png" alt="Editar Transações">
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2">
+      <h4>Listagem de Transações com Categorias</h4>
+      <img src="docs/images/transactions_cards.png" alt="Transações com Categorias">
+    </td>
+  </tr>
+</table>
+
+**Funcionalidades:**
+- 📝 Registro completo de receitas e despesas
+- 🏷️ Vinculação com categorias
+- 📅 Controle de datas
+- ✅ Status de pagamento
+- 🔁 Marcação de transações recorrentes
+- ✏️ Edição e exclusão de transações
+
+---
+
+### 🎨 Design System
+
+**Paleta de Cores:**
+- 🟢 Verde: Receitas
+- 🔴 Vermelho: Despesas
+- 🔵 Azul: Saldo e elementos principais
+- ⚪ Interface limpa e moderna
+
+**Componentes:**
+- 📱 Totalmente responsivo
+- 🎭 Modais interativos
+- 🎨 Cards coloridos por categoria
+- 📊 Tabelas organizadas
+
 
 ## 📚 Aprendizados
 
