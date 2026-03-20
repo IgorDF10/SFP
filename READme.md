@@ -225,7 +225,7 @@ Este projeto foi desenvolvido para consolidar conhecimentos em:
 
 ## 👨‍💻 Autor
 
-Igor Fernandes - [LinkedIn](https://www.linkedin.com/in/igor-fernandes-43449237b/) - [GitHub](https://github.com/IgorDF10)
+Igor Fernandes - [LinkedIn](https://www.linkedin.com/in/igor-fernandes-dev/) - [GitHub](https://github.com/IgorDF10)
 
 ## 📄 Licença
 
