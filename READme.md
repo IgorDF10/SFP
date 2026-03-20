@@ -170,15 +170,15 @@ O frontend estará rodando em: `http://localhost:5173`
   <tr>
     <td width="33%">
       <h4>Criar Transação - Despesa</h4>
-      <img src="docs/images/create_transaction2.png" alt="Criar Transação Despesa">
+      <img src="docs/images/create_transactions2.png" alt="Criar Transação Despesa">
     </td>
     <td width="33%">
       <h4>Criar Transação - Receita</h4>
-      <img src="docs/images/create_transaction.png" alt="Criar Transação Receita">
+      <img src="docs/images/create_transactions.png" alt="Criar Transação Receita">
     </td>
       <td width="33%">
       <h4>Criar Transação - lista com categorias</h4>
-      <img src="docs/images/transaction_edit.png" alt="Editar Transações">
+      <img src="docs/images/transactions_edit.png" alt="Editar Transações">
     </td>
   </tr>
     <tr>
